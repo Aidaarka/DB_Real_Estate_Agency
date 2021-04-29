@@ -1,0 +1,15 @@
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\bin\x64\Test\KursProjDB.exe.config
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\bin\x64\Test\KursProjDB.exe
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.csprojAssemblyReference.cache
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Form1.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Istor_oper.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Klienti.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Klient_Nedviz.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Nedvizhimost.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Operacii.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Procedura.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Properties.Resources.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.Sotrudniki.resources
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.csproj.GenerateResource.cache
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.csproj.CoreCompileInputs.cache
+C:\Users\SGuln\source\repos\KursProjDB\KursProjDB\obj\x64\Test\KursProjDB.exe
